@@ -1,0 +1,6 @@
+__pycashe__
+*.pyc
+
+flaskr.db
+
+.env
